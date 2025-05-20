@@ -7,7 +7,7 @@ Entrega de projeto básico de sistema bancário proposto no bootcamp da [Dio - D
 &nbsp;
 
 Projeto realizado na linguagem de programação     [**Python**](https://www.python.org/)
-```
+
 &nbsp;
 
 ```
