@@ -41,7 +41,7 @@ while True:
 
         elif excedeu_limite:
             print("Operação não realizada! O valor do saque excedeu o limite.")
-        
+
         elif excedeu_saques:
             print("Operação não realizada! Número máximo de saques excedido.")
 
